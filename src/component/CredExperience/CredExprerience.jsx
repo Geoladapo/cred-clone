@@ -1,0 +1,34 @@
+import Button from '../common/Button/Button';
+import './credExperience.css';
+
+const CredExprerience = () => {
+  return (
+    <div className="cred-experience photo-section">
+      <div className="max-width">
+        <div className="photo-section-child">
+          <div className="photo-section-top">
+            <div className="photo-section-heading cred-experience-heading">
+              Feel specail more often
+            </div>
+            <div className="photo-section-subheading">
+              exclusive rewards for paying bills
+            </div>
+          </div>
+          <div className="photo-section-bottom">
+            <div className="photo-section-description cred-experience-description">
+              every time you pay your credit card bills on CRED, you receive
+              CRED coins. you can use these to win exclusive rewards or get
+              special access to curated products and experiences. on CRED, good
+              begets good.
+            </div>
+            <div>
+              <Button buttonText="Expore rewards" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default CredExprerience;
