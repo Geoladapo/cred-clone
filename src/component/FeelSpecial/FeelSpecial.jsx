@@ -7,7 +7,7 @@ const FeelSpecial = () => {
       <div className="max-width">
         <div className="photo-section-child">
           <div className="photo-section-top">
-            <div className="photo-section-heading">Feel specail more often</div>
+            <div className="photo-section-heading">Feel special more often</div>
             <div className="photo-section-subheading">
               exclusive rewards for paying bills
             </div>

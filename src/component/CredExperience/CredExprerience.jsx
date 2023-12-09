@@ -8,21 +8,21 @@ const CredExprerience = () => {
         <div className="photo-section-child">
           <div className="photo-section-top">
             <div className="photo-section-heading cred-experience-heading">
-              Feel specail more often
+              We take your money matters seriously
             </div>
             <div className="photo-section-subheading">
-              exclusive rewards for paying bills
+              so that you don't have to.
             </div>
           </div>
           <div className="photo-section-bottom">
             <div className="photo-section-description cred-experience-description">
-              every time you pay your credit card bills on CRED, you receive
-              CRED coins. you can use these to win exclusive rewards or get
-              special access to curated products and experiences. on CRED, good
-              begets good.
+              never miss a due date with reminders to help you pay your bills on
+              time, instant settlements mean you never wait for your payments to
+              go through and statement analysis lets you know where your money
+              goes, always.
             </div>
             <div>
-              <Button buttonText="Expore rewards" />
+              <Button buttonText="Experience the upgrade" />
             </div>
           </div>
         </div>
